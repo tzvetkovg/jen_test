@@ -23,6 +23,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/tzvetkovg/jen_test.git</connection>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
